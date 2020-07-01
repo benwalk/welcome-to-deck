@@ -19,7 +19,7 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: npm run deploy
+    - run: npm run build
       
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@releases/v3

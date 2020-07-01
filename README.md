@@ -1,6 +1,6 @@
 # An interactive online deck of cards to play Welcome To
 
-View it here: https://benwalk.github.io/welcome-to-deck. Some instructions, if you're too cautious to tinker around:
+View it here: https://benwalk.github.io/welcome-to. Some instructions, if you're too cautious to tinker around:
 
 - **Randomize** randomly picks a level 1, level 2, and level 3 city plan card. This could be the same one.
 - Clicking a plan card's point values will allow you to mark it as done. This does not reset if you randomize.

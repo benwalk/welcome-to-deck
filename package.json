@@ -1,6 +1,6 @@
 {
   "homepage": "https://benwalk.github.io/welcome-to",
-  "name": "welcome-to-deck",
+  "name": "welcome-to",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

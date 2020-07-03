@@ -1,4 +1,5 @@
 import React from "react";
+import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 import { makeStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
 import shuffle from "shuffle-array";
@@ -11,8 +12,6 @@ import PlanActions from "./PlanActions";
 import PlanCards from "./PlanCards";
 import houseDeck from "./data/houseCards";
 import planDeck from "./data/planCards";
-
-import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 
 const theme = createMuiTheme({
   palette: {
